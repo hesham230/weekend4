@@ -2,4 +2,4 @@ const myBoolean = true;
 
 const result = () => myBoolean ? "yes" : "no";
 
-console.log(result('hesh'));
+console.log(result('hesham'));
