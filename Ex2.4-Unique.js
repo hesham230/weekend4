@@ -10,4 +10,5 @@ const x = (arr) => {
   return ;
 }
 
+console.log(sortedArray);
 console.log(x(arr));

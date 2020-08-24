@@ -1,6 +1,6 @@
 // iterative solution
 function fibonacci(num){
-  var a = 1, b = 0, temp;
+  let a = 1, b = 0, temp;
 
   while (num >= 0){
     temp = a;

@@ -8,4 +8,4 @@ const trimString = (str) => {
   return newStr;
 }
 
-console.log(trimString('heshamko'));
+console.log(trimString('heshamMo'));

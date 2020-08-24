@@ -1,5 +1,5 @@
-const myBoolean = true;
 
-const result = () => myBoolean ? "yes" : "no";
+const result = (myBoolean) => myBoolean ? "Yes" : "No";
 
-console.log(result('hesham'));
+console.log(result(true));
+console.log(result(false));
